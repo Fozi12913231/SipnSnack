@@ -13,7 +13,7 @@
         <ImageView
             android:id="@+id/backBTN"
             android:src="@drawable/back_icon"
-            android:layout_width="45dp"
+            android:layout_width="40dp"
             android:layout_height="45dp"/>
 
         <LinearLayout
